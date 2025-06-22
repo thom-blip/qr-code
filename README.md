@@ -12,5 +12,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [sizing nd box modelling](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Frontendmentor](#author)
+- [Thank you](#acknowledgments)
