@@ -6,10 +6,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 [qr-code](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [ https://thom-blip.github.io/qr-code/](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [html and css](#built-with)
+  - [sizing nd box modelling](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
